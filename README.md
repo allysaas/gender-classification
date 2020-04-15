@@ -4,5 +4,5 @@ This model is created by training from scratch on around 116 voice sounds (58 da
 
 ## Python packages
 - numpy
-- pyaudioanalysis
+- [pyaudioanalysis](https://github.com/tyiannak/pyAudioAnalysis)
 - pandas
